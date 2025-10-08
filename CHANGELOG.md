@@ -9,6 +9,8 @@ All notable changes to this package will be documented in this file. The format 
 
 Author in package.json
 Git usage description.
+Improved RocketWerkz notice.
+Bumped version.
 
 ## [1.0.0] - 2025-10-08
 
