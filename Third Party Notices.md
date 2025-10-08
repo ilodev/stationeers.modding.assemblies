@@ -2,10 +2,11 @@ This package contains third-party software components governed by the license(s)
 ---------
 
 Component Name: Stationeers assemblies
+https://store.steampowered.com/developer/rocketwerkz
 
 License Type: As Is
 
-Stationeers © 2025 RocketWerk
+Stationeers © 2025 RocketWerkz
 
 Unless expressly provided otherwise, the Software under this license is made available strictly on an “AS IS” BASIS WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
 
