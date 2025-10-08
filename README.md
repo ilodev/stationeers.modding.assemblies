@@ -4,11 +4,16 @@ Assemblies required to develop Stationeers Mods.
 
 ## Installation
 
-Use Unity's Package Manager via git URL or local path:
-
+Use Unity's Package Manager via git URL:
 - Open Unity Package Manager.
-- Click on the + sign and select Add Package from Git URL/Local
-- Select the package.json file if local or past the git URL.
+- Click on the + sign and select Add Package from Git URL.
+- Use the git URL: https://github.com/ilodev/stationeers.modding.assemblies.git
+
+
+Use Unity's Package Manager via local path:
+- Open Unity Package Manager.
+- Click on the + sign and select Add Package from disk.
+- Select the package.json file in the package folder.
 
 ## Dependencies
 
@@ -23,7 +28,7 @@ Due to limitations installing dependencies from Git URLs, UniTask
 is not installed as a package and the game dlls have been added 
 to the package instead.
 
-Mono.Cecil is required by BepInEx and Harmony and isinstalled by 
+Mono.Cecil is required by BepInEx and Harmony and is installed with 
 the Collections package.
 
 ## Version
