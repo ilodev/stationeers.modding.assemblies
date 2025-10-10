@@ -4,11 +4,11 @@ This package contains third-party software components governed by the license(s)
 Component Name: Stationeers assemblies
 https://store.steampowered.com/developer/rocketwerkz
 
-License Type: As Is
+License Type: AS-IS
 
 Stationeers © 2025 RocketWerkz
 
-Unless expressly provided otherwise, the Software under this license is made available strictly on an “AS IS” BASIS WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+THE SOFTWARE IS PROVIDED “AS-IS” AND WITHOUT WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR OTHERWISE, INCLUDING WITHOUT LIMITATION, ANY WARRANTY OF MERCHANDABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
 
 
 
@@ -32,6 +32,7 @@ You should have received a copy of the GNU Lesser General Public
 License along with this library; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301
 USA
+
 
 
 Component Name: Harmony 
