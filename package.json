@@ -1,8 +1,10 @@
 {
   "name": "stationeers.modding.assemblies",
   "displayName": "Stationeers Modding Assemblies",
-  "version": "1.0.3",
+  "version": "1.0.2",
   "unity": "2022.3",
+  "changelogUrl": "https://github.com/ilodev/stationeers.modding.assemblies/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/ilodev/stationeers.modding.assemblies/blob/main/Third%20Party%20Notices.md",
   "keywords": [
     "modding",
     "editor",
