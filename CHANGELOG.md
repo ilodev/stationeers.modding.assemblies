@@ -5,7 +5,7 @@ All notable changes to this package will be documented in this file. The format 
 ## [1.0.2] - 2026-02-27
 
 ### Updated
-Assembly requirements changed due to the network rework.
+Assembly requirements changed due to the network rework to game version: 0.2.6182.26959 
 
 ## [1.0.1] - 2025-10-08
 
