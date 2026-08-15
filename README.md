@@ -33,8 +33,8 @@ the Collections package.
 
 ## Version
 
-Version 1.0.3
-Game Assembly version: 0.2.6217.27046
+Version 1.0.6
+Game Assembly version: 0.2.6428.27798
 
 ## Credits
 
